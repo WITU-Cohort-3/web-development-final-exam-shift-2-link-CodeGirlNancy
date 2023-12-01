@@ -1,0 +1,25 @@
+*{
+    background-color:green;
+    
+ }
+ img{
+     margin-left: 40px;
+ 
+ }
+ h1{
+     font-size: 40px;
+     margin-left: 100px;
+ }
+ 
+ nav{
+     text-decoration: none;
+     padding: 5px;
+     width: 300px;
+     
+ }
+ a{
+     color:yellow;
+     background-color:palevioletred;
+     padding: 5px;
+ }
+ 

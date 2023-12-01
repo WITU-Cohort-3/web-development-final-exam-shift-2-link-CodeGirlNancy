@@ -1,0 +1,10 @@
+.a{
+    
+    margin-left: 350px;
+    margin-bottom: 100px;
+}
+.c1{
+    display:grid;
+    grid-template-columns:auto auto auto auto;
+
+}

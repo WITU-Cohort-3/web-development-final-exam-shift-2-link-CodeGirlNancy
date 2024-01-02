@@ -1,0 +1,26 @@
+*{
+   background-color:palegreen;
+   opacity: 20;
+}
+img{
+    margin-left: 40px;
+
+}
+h1{
+    font-size: 50px;
+    font-display: left;
+}
+h4{
+    font-size: 20px;
+}
+nav{
+    text-decoration: black;
+    padding: 5px;
+    width: 300px;
+    
+}
+a{
+    color: brown;
+    background-color:black;
+    padding: 5px;
+}
